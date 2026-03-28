@@ -1,7 +1,7 @@
 {
   "meta": {
     "source_url": "https://openrouter.ai/rankings",
-    "fetched_at": "2026-03-28T18:26:33.886375+00:00",
+    "fetched_at": "2026-03-28T18:37:46.425748+00:00",
     "counts": {
       "models": 9,
       "categories_programming": 9,
@@ -24,11 +24,11 @@
       "author": "xiaomi",
       "slug": "mimo-v2-pro-20260318",
       "url": "https://openrouter.ai/xiaomi/mimo-v2-pro-20260318",
-      "tokens": 3122586458443,
-      "tokens_display": "3.12T",
+      "tokens": 3112304109960,
+      "tokens_display": "3.11T",
       "share_pct": 16.4,
       "change": {
-        "value": 109,
+        "value": 108,
         "direction": "up"
       }
     },
@@ -39,8 +39,8 @@
       "author": "stepfun",
       "slug": "step-3.5-flash:free",
       "url": "https://openrouter.ai/stepfun/step-3.5-flash",
-      "tokens": 1245931766157,
-      "tokens_display": "1.25T",
+      "tokens": 1243223785680,
+      "tokens_display": "1.24T",
       "share_pct": 6.5,
       "change": {
         "value": 16,
@@ -54,7 +54,7 @@
       "author": "minimax",
       "slug": "minimax-m2.7-20260318",
       "url": "https://openrouter.ai/minimax/minimax-m2.7-20260318",
-      "tokens": 1101619060219,
+      "tokens": 1099641190825,
       "tokens_display": "1.1T",
       "share_pct": 5.8,
       "change": {
@@ -68,11 +68,11 @@
       "author": "deepseek",
       "slug": "deepseek-v3.2-20251201",
       "url": "https://openrouter.ai/deepseek/deepseek-v3.2-20251201",
-      "tokens": 1018434714973,
+      "tokens": 1015837911422,
       "tokens_display": "1.02T",
       "share_pct": 5.3,
       "change": {
-        "value": 10,
+        "value": 11,
         "direction": "down"
       }
     },
@@ -83,9 +83,9 @@
       "author": "anthropic",
       "slug": "claude-4.6-sonnet-20260217",
       "url": "https://openrouter.ai/anthropic/claude-4.6-sonnet-20260217",
-      "tokens": 886985046985,
-      "tokens_display": "887B",
-      "share_pct": 4.6,
+      "tokens": 885513901755,
+      "tokens_display": "886B",
+      "share_pct": 4.7,
       "change": {
         "value": 15,
         "direction": "down"
@@ -98,8 +98,8 @@
       "author": "anthropic",
       "slug": "claude-4.6-opus-20260205",
       "url": "https://openrouter.ai/anthropic/claude-4.6-opus-20260205",
-      "tokens": 869152528438,
-      "tokens_display": "869B",
+      "tokens": 867598256530,
+      "tokens_display": "868B",
       "share_pct": 4.6,
       "change": {
         "value": 11,
@@ -113,8 +113,8 @@
       "author": "google",
       "slug": "gemini-3-flash-preview-20251217",
       "url": "https://openrouter.ai/google/gemini-3-flash-preview-20251217",
-      "tokens": 833653520720,
-      "tokens_display": "834B",
+      "tokens": 831990135209,
+      "tokens_display": "832B",
       "share_pct": 4.4,
       "change": {
         "value": 11,
@@ -128,8 +128,8 @@
       "author": "minimax",
       "slug": "minimax-m2.5-20260211",
       "url": "https://openrouter.ai/minimax/minimax-m2.5-20260211",
-      "tokens": 804646361148,
-      "tokens_display": "805B",
+      "tokens": 803172053162,
+      "tokens_display": "803B",
       "share_pct": 4.2,
       "change": {
         "value": 38,
@@ -143,8 +143,8 @@
       "author": "z-ai",
       "slug": "glm-5-turbo-20260315",
       "url": "https://openrouter.ai/z-ai/glm-5-turbo-20260315",
-      "tokens": 803840116339,
-      "tokens_display": "804B",
+      "tokens": 802374372872,
+      "tokens_display": "802B",
       "share_pct": 4.2,
       "change": {
         "value": 22,
@@ -153,107 +153,6 @@
     }
   ],
   "categories_programming": [
-    {
-      "rank": 1,
-      "model_id": "xiaomi/mimo-v2-pro-20260318",
-      "name": "xiaomi/mimo-v2-pro-20260318",
-      "author": "xiaomi",
-      "slug": "mimo-v2-pro-20260318",
-      "url": "https://openrouter.ai/xiaomi/mimo-v2-pro-20260318",
-      "tokens": 749701793333.3328,
-      "tokens_display": "750B",
-      "share_pct": 17.7
-    },
-    {
-      "rank": 2,
-      "model_id": "stepfun/step-3.5-flash:free",
-      "name": "stepfun/step-3.5-flash:free",
-      "author": "stepfun",
-      "slug": "step-3.5-flash:free",
-      "url": "https://openrouter.ai/stepfun/step-3.5-flash",
-      "tokens": 282543990666.6668,
-      "tokens_display": "283B",
-      "share_pct": 6.7
-    },
-    {
-      "rank": 3,
-      "model_id": "minimax/minimax-m2.7-20260318",
-      "name": "minimax/minimax-m2.7-20260318",
-      "author": "minimax",
-      "slug": "minimax-m2.7-20260318",
-      "url": "https://openrouter.ai/minimax/minimax-m2.7-20260318",
-      "tokens": 272872945333.33337,
-      "tokens_display": "273B",
-      "share_pct": 6.5
-    },
-    {
-      "rank": 4,
-      "model_id": "deepseek/deepseek-v3.2-20251201",
-      "name": "deepseek/deepseek-v3.2-20251201",
-      "author": "deepseek",
-      "slug": "deepseek-v3.2-20251201",
-      "url": "https://openrouter.ai/deepseek/deepseek-v3.2-20251201",
-      "tokens": 257606461333.33334,
-      "tokens_display": "258B",
-      "share_pct": 6.1
-    },
-    {
-      "rank": 5,
-      "model_id": "minimax/minimax-m2.5-20260211",
-      "name": "minimax/minimax-m2.5-20260211",
-      "author": "minimax",
-      "slug": "minimax-m2.5-20260211",
-      "url": "https://openrouter.ai/minimax/minimax-m2.5-20260211",
-      "tokens": 177451657333.33328,
-      "tokens_display": "177B",
-      "share_pct": 4.2
-    },
-    {
-      "rank": 6,
-      "model_id": "anthropic/claude-4.6-opus-20260205",
-      "name": "anthropic/claude-4.6-opus-20260205",
-      "author": "anthropic",
-      "slug": "claude-4.6-opus-20260205",
-      "url": "https://openrouter.ai/anthropic/claude-4.6-opus-20260205",
-      "tokens": 176906880000,
-      "tokens_display": "177B",
-      "share_pct": 4.2
-    },
-    {
-      "rank": 7,
-      "model_id": "google/gemini-3-flash-preview-20251217",
-      "name": "google/gemini-3-flash-preview-20251217",
-      "author": "google",
-      "slug": "gemini-3-flash-preview-20251217",
-      "url": "https://openrouter.ai/google/gemini-3-flash-preview-20251217",
-      "tokens": 175184943999.9999,
-      "tokens_display": "175B",
-      "share_pct": 4.1
-    },
-    {
-      "rank": 8,
-      "model_id": "anthropic/claude-4.6-sonnet-20260217",
-      "name": "anthropic/claude-4.6-sonnet-20260217",
-      "author": "anthropic",
-      "slug": "claude-4.6-sonnet-20260217",
-      "url": "https://openrouter.ai/anthropic/claude-4.6-sonnet-20260217",
-      "tokens": 168767728000.00003,
-      "tokens_display": "169B",
-      "share_pct": 4.0
-    },
-    {
-      "rank": 9,
-      "model_id": "z-ai/glm-5-20260211",
-      "name": "z-ai/glm-5-20260211",
-      "author": "z-ai",
-      "slug": "glm-5-20260211",
-      "url": "https://openrouter.ai/z-ai/glm-5-20260211",
-      "tokens": 121444185333.33333,
-      "tokens_display": "121B",
-      "share_pct": 2.9
-    }
-  ],
-  "languages_english": [
     {
       "rank": 1,
       "model_id": "xiaomi/mimo-v2-pro-20260318",
@@ -354,108 +253,7 @@
       "share_pct": 2.9
     }
   ],
-  "programming_python": [
-    {
-      "rank": 1,
-      "model_id": "xiaomi/mimo-v2-pro-20260318",
-      "name": "xiaomi/mimo-v2-pro-20260318",
-      "author": "xiaomi",
-      "slug": "mimo-v2-pro-20260318",
-      "url": "https://openrouter.ai/xiaomi/mimo-v2-pro-20260318",
-      "tokens": 156445947999.9999,
-      "tokens_display": "156B",
-      "share_pct": 16.2
-    },
-    {
-      "rank": 2,
-      "model_id": "deepseek/deepseek-v3.2-20251201",
-      "name": "deepseek/deepseek-v3.2-20251201",
-      "author": "deepseek",
-      "slug": "deepseek-v3.2-20251201",
-      "url": "https://openrouter.ai/deepseek/deepseek-v3.2-20251201",
-      "tokens": 72735723999.99997,
-      "tokens_display": "72.7B",
-      "share_pct": 7.5
-    },
-    {
-      "rank": 3,
-      "model_id": "stepfun/step-3.5-flash:free",
-      "name": "stepfun/step-3.5-flash:free",
-      "author": "stepfun",
-      "slug": "step-3.5-flash:free",
-      "url": "https://openrouter.ai/stepfun/step-3.5-flash",
-      "tokens": 62647221333.33335,
-      "tokens_display": "62.6B",
-      "share_pct": 6.5
-    },
-    {
-      "rank": 4,
-      "model_id": "minimax/minimax-m2.7-20260318",
-      "name": "minimax/minimax-m2.7-20260318",
-      "author": "minimax",
-      "slug": "minimax-m2.7-20260318",
-      "url": "https://openrouter.ai/minimax/minimax-m2.7-20260318",
-      "tokens": 61965680000,
-      "tokens_display": "62B",
-      "share_pct": 6.4
-    },
-    {
-      "rank": 5,
-      "model_id": "google/gemini-3-flash-preview-20251217",
-      "name": "google/gemini-3-flash-preview-20251217",
-      "author": "google",
-      "slug": "gemini-3-flash-preview-20251217",
-      "url": "https://openrouter.ai/google/gemini-3-flash-preview-20251217",
-      "tokens": 39907253333.33333,
-      "tokens_display": "39.9B",
-      "share_pct": 4.1
-    },
-    {
-      "rank": 6,
-      "model_id": "anthropic/claude-4.6-opus-20260205",
-      "name": "anthropic/claude-4.6-opus-20260205",
-      "author": "anthropic",
-      "slug": "claude-4.6-opus-20260205",
-      "url": "https://openrouter.ai/anthropic/claude-4.6-opus-20260205",
-      "tokens": 36550865333.333336,
-      "tokens_display": "36.6B",
-      "share_pct": 3.8
-    },
-    {
-      "rank": 7,
-      "model_id": "anthropic/claude-4.6-sonnet-20260217",
-      "name": "anthropic/claude-4.6-sonnet-20260217",
-      "author": "anthropic",
-      "slug": "claude-4.6-sonnet-20260217",
-      "url": "https://openrouter.ai/anthropic/claude-4.6-sonnet-20260217",
-      "tokens": 31799690666.666656,
-      "tokens_display": "31.8B",
-      "share_pct": 3.3
-    },
-    {
-      "rank": 8,
-      "model_id": "x-ai/grok-4.1-fast",
-      "name": "x-ai/grok-4.1-fast",
-      "author": "x-ai",
-      "slug": "grok-4.1-fast",
-      "url": "https://openrouter.ai/x-ai/grok-4.1-fast",
-      "tokens": 28382898666.666645,
-      "tokens_display": "28.4B",
-      "share_pct": 2.9
-    },
-    {
-      "rank": 9,
-      "model_id": "openai/gpt-oss-120b",
-      "name": "openai/gpt-oss-120b",
-      "author": "openai",
-      "slug": "gpt-oss-120b",
-      "url": "https://openrouter.ai/openai/gpt-oss-120b",
-      "tokens": 26937798666.66666,
-      "tokens_display": "26.9B",
-      "share_pct": 2.8
-    }
-  ],
-  "context_length": [
+  "languages_english": [
     {
       "rank": 1,
       "model_id": "google/gemini-2.5-flash",
@@ -463,8 +261,8 @@
       "author": "google",
       "slug": "gemini-2.5-flash",
       "url": "https://openrouter.ai/google/gemini-2.5-flash",
-      "requests": 77854819,
-      "requests_display": "77.9M",
+      "tokens": 77603527,
+      "tokens_display": "77.6M",
       "share_pct": 9.2
     },
     {
@@ -474,9 +272,9 @@
       "author": "google",
       "slug": "gemini-2.5-flash-lite",
       "url": "https://openrouter.ai/google/gemini-2.5-flash-lite",
-      "requests": 74699069,
-      "requests_display": "74.7M",
-      "share_pct": 8.9
+      "tokens": 74358917,
+      "tokens_display": "74.4M",
+      "share_pct": 8.8
     },
     {
       "rank": 3,
@@ -485,8 +283,8 @@
       "author": "openai",
       "slug": "gpt-oss-120b",
       "url": "https://openrouter.ai/openai/gpt-oss-120b",
-      "requests": 66053682,
-      "requests_display": "66.1M",
+      "tokens": 65672219,
+      "tokens_display": "65.7M",
       "share_pct": 7.8
     },
     {
@@ -496,8 +294,8 @@
       "author": "google",
       "slug": "gemini-3-flash-preview-20251217",
       "url": "https://openrouter.ai/google/gemini-3-flash-preview-20251217",
-      "requests": 53928011,
-      "requests_display": "53.9M",
+      "tokens": 53758140,
+      "tokens_display": "53.8M",
       "share_pct": 6.4
     },
     {
@@ -507,8 +305,8 @@
       "author": "x-ai",
       "slug": "grok-4.1-fast",
       "url": "https://openrouter.ai/x-ai/grok-4.1-fast",
-      "requests": 53723938,
-      "requests_display": "53.7M",
+      "tokens": 53363924,
+      "tokens_display": "53.4M",
       "share_pct": 6.4
     },
     {
@@ -518,8 +316,8 @@
       "author": "deepseek",
       "slug": "deepseek-v3.2-20251201",
       "url": "https://openrouter.ai/deepseek/deepseek-v3.2-20251201",
-      "requests": 50885197,
-      "requests_display": "50.9M",
+      "tokens": 50675099,
+      "tokens_display": "50.7M",
       "share_pct": 6.0
     },
     {
@@ -529,8 +327,8 @@
       "author": "openai",
       "slug": "gpt-4o-mini",
       "url": "https://openrouter.ai/openai/gpt-4o-mini",
-      "requests": 30933182,
-      "requests_display": "30.9M",
+      "tokens": 30823211,
+      "tokens_display": "30.8M",
       "share_pct": 3.7
     },
     {
@@ -540,8 +338,8 @@
       "author": "meta-llama",
       "slug": "llama-3.1-8b-instruct",
       "url": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
-      "requests": 24704742,
-      "requests_display": "24.7M",
+      "tokens": 24613240,
+      "tokens_display": "24.6M",
       "share_pct": 2.9
     },
     {
@@ -551,9 +349,211 @@
       "author": "google",
       "slug": "gemini-3.1-flash-lite-preview-20260303",
       "url": "https://openrouter.ai/google/gemini-3.1-flash-lite-preview-20260303",
-      "requests": 19138123,
-      "requests_display": "19.1M",
+      "tokens": 19030007,
+      "tokens_display": "19M",
       "share_pct": 2.3
+    }
+  ],
+  "programming_python": [
+    {
+      "rank": 1,
+      "model_id": "xiaomi/mimo-v2-pro-20260318",
+      "name": "xiaomi/mimo-v2-pro-20260318",
+      "author": "xiaomi",
+      "slug": "mimo-v2-pro-20260318",
+      "url": "https://openrouter.ai/xiaomi/mimo-v2-pro-20260318",
+      "tokens": 749701793333.3328,
+      "tokens_display": "750B",
+      "share_pct": 17.7
+    },
+    {
+      "rank": 2,
+      "model_id": "stepfun/step-3.5-flash:free",
+      "name": "stepfun/step-3.5-flash:free",
+      "author": "stepfun",
+      "slug": "step-3.5-flash:free",
+      "url": "https://openrouter.ai/stepfun/step-3.5-flash",
+      "tokens": 282543990666.6668,
+      "tokens_display": "283B",
+      "share_pct": 6.7
+    },
+    {
+      "rank": 3,
+      "model_id": "minimax/minimax-m2.7-20260318",
+      "name": "minimax/minimax-m2.7-20260318",
+      "author": "minimax",
+      "slug": "minimax-m2.7-20260318",
+      "url": "https://openrouter.ai/minimax/minimax-m2.7-20260318",
+      "tokens": 272872945333.33337,
+      "tokens_display": "273B",
+      "share_pct": 6.5
+    },
+    {
+      "rank": 4,
+      "model_id": "deepseek/deepseek-v3.2-20251201",
+      "name": "deepseek/deepseek-v3.2-20251201",
+      "author": "deepseek",
+      "slug": "deepseek-v3.2-20251201",
+      "url": "https://openrouter.ai/deepseek/deepseek-v3.2-20251201",
+      "tokens": 257606461333.33334,
+      "tokens_display": "258B",
+      "share_pct": 6.1
+    },
+    {
+      "rank": 5,
+      "model_id": "minimax/minimax-m2.5-20260211",
+      "name": "minimax/minimax-m2.5-20260211",
+      "author": "minimax",
+      "slug": "minimax-m2.5-20260211",
+      "url": "https://openrouter.ai/minimax/minimax-m2.5-20260211",
+      "tokens": 177451657333.33328,
+      "tokens_display": "177B",
+      "share_pct": 4.2
+    },
+    {
+      "rank": 6,
+      "model_id": "anthropic/claude-4.6-opus-20260205",
+      "name": "anthropic/claude-4.6-opus-20260205",
+      "author": "anthropic",
+      "slug": "claude-4.6-opus-20260205",
+      "url": "https://openrouter.ai/anthropic/claude-4.6-opus-20260205",
+      "tokens": 176906880000,
+      "tokens_display": "177B",
+      "share_pct": 4.2
+    },
+    {
+      "rank": 7,
+      "model_id": "google/gemini-3-flash-preview-20251217",
+      "name": "google/gemini-3-flash-preview-20251217",
+      "author": "google",
+      "slug": "gemini-3-flash-preview-20251217",
+      "url": "https://openrouter.ai/google/gemini-3-flash-preview-20251217",
+      "tokens": 175184943999.9999,
+      "tokens_display": "175B",
+      "share_pct": 4.1
+    },
+    {
+      "rank": 8,
+      "model_id": "anthropic/claude-4.6-sonnet-20260217",
+      "name": "anthropic/claude-4.6-sonnet-20260217",
+      "author": "anthropic",
+      "slug": "claude-4.6-sonnet-20260217",
+      "url": "https://openrouter.ai/anthropic/claude-4.6-sonnet-20260217",
+      "tokens": 168767728000.00003,
+      "tokens_display": "169B",
+      "share_pct": 4.0
+    },
+    {
+      "rank": 9,
+      "model_id": "z-ai/glm-5-20260211",
+      "name": "z-ai/glm-5-20260211",
+      "author": "z-ai",
+      "slug": "glm-5-20260211",
+      "url": "https://openrouter.ai/z-ai/glm-5-20260211",
+      "tokens": 121444185333.33333,
+      "tokens_display": "121B",
+      "share_pct": 2.9
+    }
+  ],
+  "context_length": [
+    {
+      "rank": 1,
+      "model_id": "xiaomi/mimo-v2-pro-20260318",
+      "name": "xiaomi/mimo-v2-pro-20260318",
+      "author": "xiaomi",
+      "slug": "mimo-v2-pro-20260318",
+      "url": "https://openrouter.ai/xiaomi/mimo-v2-pro-20260318",
+      "requests": 156445947999.9999,
+      "requests_display": "156B",
+      "share_pct": 16.2
+    },
+    {
+      "rank": 2,
+      "model_id": "deepseek/deepseek-v3.2-20251201",
+      "name": "deepseek/deepseek-v3.2-20251201",
+      "author": "deepseek",
+      "slug": "deepseek-v3.2-20251201",
+      "url": "https://openrouter.ai/deepseek/deepseek-v3.2-20251201",
+      "requests": 72735723999.99997,
+      "requests_display": "72.7B",
+      "share_pct": 7.5
+    },
+    {
+      "rank": 3,
+      "model_id": "stepfun/step-3.5-flash:free",
+      "name": "stepfun/step-3.5-flash:free",
+      "author": "stepfun",
+      "slug": "step-3.5-flash:free",
+      "url": "https://openrouter.ai/stepfun/step-3.5-flash",
+      "requests": 62647221333.33335,
+      "requests_display": "62.6B",
+      "share_pct": 6.5
+    },
+    {
+      "rank": 4,
+      "model_id": "minimax/minimax-m2.7-20260318",
+      "name": "minimax/minimax-m2.7-20260318",
+      "author": "minimax",
+      "slug": "minimax-m2.7-20260318",
+      "url": "https://openrouter.ai/minimax/minimax-m2.7-20260318",
+      "requests": 61965680000,
+      "requests_display": "62B",
+      "share_pct": 6.4
+    },
+    {
+      "rank": 5,
+      "model_id": "google/gemini-3-flash-preview-20251217",
+      "name": "google/gemini-3-flash-preview-20251217",
+      "author": "google",
+      "slug": "gemini-3-flash-preview-20251217",
+      "url": "https://openrouter.ai/google/gemini-3-flash-preview-20251217",
+      "requests": 39907253333.33333,
+      "requests_display": "39.9B",
+      "share_pct": 4.1
+    },
+    {
+      "rank": 6,
+      "model_id": "anthropic/claude-4.6-opus-20260205",
+      "name": "anthropic/claude-4.6-opus-20260205",
+      "author": "anthropic",
+      "slug": "claude-4.6-opus-20260205",
+      "url": "https://openrouter.ai/anthropic/claude-4.6-opus-20260205",
+      "requests": 36550865333.333336,
+      "requests_display": "36.6B",
+      "share_pct": 3.8
+    },
+    {
+      "rank": 7,
+      "model_id": "anthropic/claude-4.6-sonnet-20260217",
+      "name": "anthropic/claude-4.6-sonnet-20260217",
+      "author": "anthropic",
+      "slug": "claude-4.6-sonnet-20260217",
+      "url": "https://openrouter.ai/anthropic/claude-4.6-sonnet-20260217",
+      "requests": 31799690666.666656,
+      "requests_display": "31.8B",
+      "share_pct": 3.3
+    },
+    {
+      "rank": 8,
+      "model_id": "x-ai/grok-4.1-fast",
+      "name": "x-ai/grok-4.1-fast",
+      "author": "x-ai",
+      "slug": "grok-4.1-fast",
+      "url": "https://openrouter.ai/x-ai/grok-4.1-fast",
+      "requests": 28382898666.666645,
+      "requests_display": "28.4B",
+      "share_pct": 2.9
+    },
+    {
+      "rank": 9,
+      "model_id": "openai/gpt-oss-120b",
+      "name": "openai/gpt-oss-120b",
+      "author": "openai",
+      "slug": "gpt-oss-120b",
+      "url": "https://openrouter.ai/openai/gpt-oss-120b",
+      "requests": 26937798666.66666,
+      "requests_display": "26.9B",
+      "share_pct": 2.8
     }
   ],
   "tool_calls": [
@@ -564,7 +564,7 @@
       "author": "xiaomi",
       "slug": "mimo-v2-pro-20260318",
       "url": "https://openrouter.ai/xiaomi/mimo-v2-pro-20260318",
-      "calls": 24630249,
+      "calls": 24592937,
       "calls_display": "24.6M",
       "share_pct": 10.9
     },
@@ -575,8 +575,8 @@
       "author": "google",
       "slug": "gemini-3-flash-preview-20251217",
       "url": "https://openrouter.ai/google/gemini-3-flash-preview-20251217",
-      "calls": 16158846,
-      "calls_display": "16.2M",
+      "calls": 16142010,
+      "calls_display": "16.1M",
       "share_pct": 7.1
     },
     {
@@ -586,7 +586,7 @@
       "author": "minimax",
       "slug": "minimax-m2.7-20260318",
       "url": "https://openrouter.ai/minimax/minimax-m2.7-20260318",
-      "calls": 15995879,
+      "calls": 15981591,
       "calls_display": "16M",
       "share_pct": 7.1
     },
@@ -597,8 +597,8 @@
       "author": "stepfun",
       "slug": "step-3.5-flash:free",
       "url": "https://openrouter.ai/stepfun/step-3.5-flash",
-      "calls": 15661223,
-      "calls_display": "15.7M",
+      "calls": 15644343,
+      "calls_display": "15.6M",
       "share_pct": 6.9
     },
     {
@@ -608,7 +608,7 @@
       "author": "minimax",
       "slug": "minimax-m2.5-20260211",
       "url": "https://openrouter.ai/minimax/minimax-m2.5-20260211",
-      "calls": 13639937,
+      "calls": 13628229,
       "calls_display": "13.6M",
       "share_pct": 6.0
     },
@@ -619,7 +619,7 @@
       "author": "anthropic",
       "slug": "claude-4.6-sonnet-20260217",
       "url": "https://openrouter.ai/anthropic/claude-4.6-sonnet-20260217",
-      "calls": 9204854,
+      "calls": 9197864,
       "calls_display": "9.2M",
       "share_pct": 4.1
     },
@@ -630,8 +630,8 @@
       "author": "google",
       "slug": "gemini-2.5-flash",
       "url": "https://openrouter.ai/google/gemini-2.5-flash",
-      "calls": 8785010,
-      "calls_display": "8.79M",
+      "calls": 8776891,
+      "calls_display": "8.78M",
       "share_pct": 3.9
     },
     {
@@ -641,8 +641,8 @@
       "author": "anthropic",
       "slug": "claude-4.6-opus-20260205",
       "url": "https://openrouter.ai/anthropic/claude-4.6-opus-20260205",
-      "calls": 8330363,
-      "calls_display": "8.33M",
+      "calls": 8323748,
+      "calls_display": "8.32M",
       "share_pct": 3.7
     },
     {
@@ -652,8 +652,8 @@
       "author": "moonshotai",
       "slug": "kimi-k2.5-0127",
       "url": "https://openrouter.ai/moonshotai/kimi-k2.5-0127",
-      "calls": 7988974,
-      "calls_display": "7.99M",
+      "calls": 7982325,
+      "calls_display": "7.98M",
       "share_pct": 3.5
     }
   ],
@@ -665,7 +665,7 @@
       "author": "google",
       "slug": "gemini-2.5-flash-lite",
       "url": "https://openrouter.ai/google/gemini-2.5-flash-lite",
-      "images": 146687290,
+      "images": 146616155,
       "images_display": "147M",
       "share_pct": 35.2
     },
@@ -676,7 +676,7 @@
       "author": "openai",
       "slug": "gpt-4.1-mini-2025-04-14",
       "url": "https://openrouter.ai/openai/gpt-4.1-mini-2025-04-14",
-      "images": 45313497,
+      "images": 45303602,
       "images_display": "45.3M",
       "share_pct": 10.9
     },
@@ -687,8 +687,8 @@
       "author": "google",
       "slug": "gemini-3-flash-preview-20251217",
       "url": "https://openrouter.ai/google/gemini-3-flash-preview-20251217",
-      "images": 36272104,
-      "images_display": "36.3M",
+      "images": 36240931,
+      "images_display": "36.2M",
       "share_pct": 8.7
     },
     {
@@ -698,7 +698,7 @@
       "author": "google",
       "slug": "gemini-2.5-flash",
       "url": "https://openrouter.ai/google/gemini-2.5-flash",
-      "images": 27745390,
+      "images": 27728657,
       "images_display": "27.7M",
       "share_pct": 6.7
     },
@@ -709,7 +709,7 @@
       "author": "openai",
       "slug": "gpt-5.4-20260305",
       "url": "https://openrouter.ai/openai/gpt-5.4-20260305",
-      "images": 13553928,
+      "images": 13551356,
       "images_display": "13.6M",
       "share_pct": 3.3
     },
@@ -720,7 +720,7 @@
       "author": "google",
       "slug": "gemini-3.1-pro-preview-20260219",
       "url": "https://openrouter.ai/google/gemini-3.1-pro-preview-20260219",
-      "images": 10610923,
+      "images": 10608576,
       "images_display": "10.6M",
       "share_pct": 2.5
     },
@@ -731,7 +731,7 @@
       "author": "moonshotai",
       "slug": "kimi-k2.5-0127",
       "url": "https://openrouter.ai/moonshotai/kimi-k2.5-0127",
-      "images": 9544632,
+      "images": 9543393,
       "images_display": "9.54M",
       "share_pct": 2.3
     },
@@ -742,7 +742,7 @@
       "author": "qwen",
       "slug": "qwen3-vl-235b-a22b-instruct",
       "url": "https://openrouter.ai/qwen/qwen3-vl-235b-a22b-instruct",
-      "images": 8681180,
+      "images": 8676079,
       "images_display": "8.68M",
       "share_pct": 2.1
     },
@@ -753,7 +753,7 @@
       "author": "google",
       "slug": "gemini-3.1-flash-lite-preview-20260303",
       "url": "https://openrouter.ai/google/gemini-3.1-flash-lite-preview-20260303",
-      "images": 8453912,
+      "images": 8451595,
       "images_display": "8.45M",
       "share_pct": 2.0
     }
@@ -763,23 +763,23 @@
       "rank": 1,
       "author": "xiaomi",
       "url": "https://openrouter.ai/xiaomi",
-      "tokens": 4261458516476,
-      "tokens_display": "4.26T",
+      "tokens": 4250046153901,
+      "tokens_display": "4.25T",
       "share_pct": 19.6
     },
     {
       "rank": 2,
       "author": "google",
       "url": "https://openrouter.ai/google",
-      "tokens": 2876043624205,
-      "tokens_display": "2.88T",
+      "tokens": 2870885753075,
+      "tokens_display": "2.87T",
       "share_pct": 13.2
     },
     {
       "rank": 3,
       "author": "anthropic",
       "url": "https://openrouter.ai/anthropic",
-      "tokens": 2793274008384,
+      "tokens": 2789063630890,
       "tokens_display": "2.79T",
       "share_pct": 12.9
     },
@@ -787,15 +787,15 @@
       "rank": 4,
       "author": "minimax",
       "url": "https://openrouter.ai/minimax",
-      "tokens": 2186412424338,
-      "tokens_display": "2.19T",
+      "tokens": 2183028839176,
+      "tokens_display": "2.18T",
       "share_pct": 10.1
     },
     {
       "rank": 5,
       "author": "openai",
       "url": "https://openrouter.ai/openai",
-      "tokens": 2133982379298,
+      "tokens": 2128111995569,
       "tokens_display": "2.13T",
       "share_pct": 9.8
     },
@@ -803,7 +803,7 @@
       "rank": 6,
       "author": "stepfun",
       "url": "https://openrouter.ai/stepfun",
-      "tokens": 1502640496428,
+      "tokens": 1499899051585,
       "tokens_display": "1.5T",
       "share_pct": 6.9
     },
@@ -811,7 +811,7 @@
       "rank": 7,
       "author": "z-ai",
       "url": "https://openrouter.ai/z-ai",
-      "tokens": 1494145427430,
+      "tokens": 1492013266104,
       "tokens_display": "1.49T",
       "share_pct": 6.9
     },
@@ -819,7 +819,7 @@
       "rank": 8,
       "author": "deepseek",
       "url": "https://openrouter.ai/deepseek",
-      "tokens": 1418557402462,
+      "tokens": 1415542185128,
       "tokens_display": "1.42T",
       "share_pct": 6.5
     },
@@ -827,8 +827,8 @@
       "rank": 9,
       "author": "x-ai",
       "url": "https://openrouter.ai/x-ai",
-      "tokens": 706780701731,
-      "tokens_display": "707B",
+      "tokens": 705202268646,
+      "tokens_display": "705B",
       "share_pct": 3.3
     }
   ],
@@ -1023,8 +1023,8 @@
       "slug": "gpt-oss-safeguard-20b",
       "url": "https://openrouter.ai/openai/gpt-oss-safeguard-20b",
       "fastest_provider": "Groq",
-      "throughput_tok_s": 838,
-      "latency_ms_p50": 156,
+      "throughput_tok_s": 827,
+      "latency_ms_p50": 155,
       "price_per_m_tokens": 0.075,
       "provider_count": 1
     },
@@ -1036,7 +1036,7 @@
       "slug": "gpt-oss-20b",
       "url": "https://openrouter.ai/openai/gpt-oss-20b",
       "fastest_provider": "Groq",
-      "throughput_tok_s": 772,
+      "throughput_tok_s": 789,
       "latency_ms_p50": 85,
       "price_per_m_tokens": 0.075,
       "provider_count": 14
@@ -1049,8 +1049,8 @@
       "slug": "qwen3-32b-04-28",
       "url": "https://openrouter.ai/qwen/qwen3-32b-04-28",
       "fastest_provider": "Groq",
-      "throughput_tok_s": 472,
-      "latency_ms_p50": 246,
+      "throughput_tok_s": 473,
+      "latency_ms_p50": 238,
       "price_per_m_tokens": 0.29,
       "provider_count": 9
     },
@@ -1076,7 +1076,7 @@
       "url": "https://openrouter.ai/inception/mercury-2-20260304",
       "fastest_provider": "Inception",
       "throughput_tok_s": 250,
-      "latency_ms_p50": 328,
+      "latency_ms_p50": 319.5,
       "price_per_m_tokens": 0.25,
       "provider_count": 1
     },
@@ -1088,8 +1088,8 @@
       "slug": "kimi-k2.5-0127",
       "url": "https://openrouter.ai/moonshotai/kimi-k2.5-0127",
       "fastest_provider": "BaseTen",
-      "throughput_tok_s": 247,
-      "latency_ms_p50": 173,
+      "throughput_tok_s": 248,
+      "latency_ms_p50": 172,
       "price_per_m_tokens": 0.6,
       "provider_count": 16
     },
@@ -1102,7 +1102,7 @@
       "url": "https://openrouter.ai/minimax/minimax-m2.1",
       "fastest_provider": "Fireworks",
       "throughput_tok_s": 240,
-      "latency_ms_p50": 238,
+      "latency_ms_p50": 239,
       "price_per_m_tokens": 0.3,
       "provider_count": 9
     },
@@ -1114,8 +1114,8 @@
       "slug": "llama-3.1-8b-instruct",
       "url": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
       "fastest_provider": "Groq",
-      "throughput_tok_s": 229,
-      "latency_ms_p50": 73,
+      "throughput_tok_s": 227,
+      "latency_ms_p50": 69,
       "price_per_m_tokens": 0.049999999999999996,
       "provider_count": 9
     },
@@ -1127,8 +1127,8 @@
       "slug": "minimax-m2.5-20260211",
       "url": "https://openrouter.ai/minimax/minimax-m2.5-20260211",
       "fastest_provider": "SambaNova",
-      "throughput_tok_s": 192,
-      "latency_ms_p50": 430,
+      "throughput_tok_s": 192.5,
+      "latency_ms_p50": 420,
       "price_per_m_tokens": 0.3,
       "provider_count": 18
     },
@@ -1141,7 +1141,7 @@
       "url": "https://openrouter.ai/deepseek/deepseek-chat-v3-0324",
       "fastest_provider": "BaseTen",
       "throughput_tok_s": 185,
-      "latency_ms_p50": 582,
+      "latency_ms_p50": 581,
       "price_per_m_tokens": 0.77,
       "provider_count": 8
     },
@@ -1153,10 +1153,10 @@
       "slug": "llama-3.3-70b-instruct",
       "url": "https://openrouter.ai/meta-llama/llama-3.3-70b-instruct",
       "fastest_provider": "Groq",
-      "throughput_tok_s": 182,
-      "latency_ms_p50": 96,
+      "throughput_tok_s": 185,
+      "latency_ms_p50": 98,
       "price_per_m_tokens": 0.59,
-      "provider_count": 17
+      "provider_count": 18
     },
     {
       "rank": 12,
@@ -1166,8 +1166,8 @@
       "slug": "kimi-k2-thinking-20251106",
       "url": "https://openrouter.ai/moonshotai/kimi-k2-thinking-20251106",
       "fastest_provider": "Google",
-      "throughput_tok_s": 180,
-      "latency_ms_p50": 384,
+      "throughput_tok_s": 181,
+      "latency_ms_p50": 394,
       "price_per_m_tokens": 0.6,
       "provider_count": 7
     },
@@ -1179,8 +1179,8 @@
       "slug": "nemotron-3-nano-30b-a3b",
       "url": "https://openrouter.ai/nvidia/nemotron-3-nano-30b-a3b",
       "fastest_provider": "Nvidia",
-      "throughput_tok_s": 174,
-      "latency_ms_p50": 396,
+      "throughput_tok_s": 172,
+      "latency_ms_p50": 387,
       "price_per_m_tokens": 0,
       "provider_count": 2
     },
@@ -1192,8 +1192,8 @@
       "slug": "grok-code-fast-1",
       "url": "https://openrouter.ai/x-ai/grok-code-fast-1",
       "fastest_provider": "xAI",
-      "throughput_tok_s": 170,
-      "latency_ms_p50": 3986,
+      "throughput_tok_s": 172,
+      "latency_ms_p50": 3997.5,
       "price_per_m_tokens": 0.19999999999999998,
       "provider_count": 1
     },
@@ -1206,7 +1206,7 @@
       "url": "https://openrouter.ai/deepseek/deepseek-r1-0528",
       "fastest_provider": "Nebius",
       "throughput_tok_s": 154,
-      "latency_ms_p50": 624,
+      "latency_ms_p50": 620,
       "price_per_m_tokens": 2,
       "provider_count": 9
     },
@@ -1218,8 +1218,8 @@
       "slug": "gemini-2.5-flash-lite",
       "url": "https://openrouter.ai/google/gemini-2.5-flash-lite",
       "fastest_provider": "Google AI Studio",
-      "throughput_tok_s": 150,
-      "latency_ms_p50": 451.5,
+      "throughput_tok_s": 148,
+      "latency_ms_p50": 440,
       "price_per_m_tokens": 0.09999999999999999,
       "provider_count": 2
     },
@@ -1231,26 +1231,39 @@
       "slug": "trinity-mini-20251201",
       "url": "https://openrouter.ai/arcee-ai/trinity-mini-20251201",
       "fastest_provider": "Clarifai",
-      "throughput_tok_s": 145,
+      "throughput_tok_s": 143,
       "latency_ms_p50": 113,
       "price_per_m_tokens": 0.045,
       "provider_count": 2
     },
     {
       "rank": 18,
+      "model_id": "mistralai/mistral-small-2603",
+      "name": "Mistral: Mistral Small 4",
+      "author": "mistralai",
+      "slug": "mistral-small-2603",
+      "url": "https://openrouter.ai/mistralai/mistral-small-2603",
+      "fastest_provider": "Mistral",
+      "throughput_tok_s": 130,
+      "latency_ms_p50": 385,
+      "price_per_m_tokens": 0.15,
+      "provider_count": 1
+    },
+    {
+      "rank": 19,
       "model_id": "nvidia/nemotron-3-super-120b-a12b-20230311",
       "name": "NVIDIA: Nemotron 3 Super",
       "author": "nvidia",
       "slug": "nemotron-3-super-120b-a12b-20230311",
       "url": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b-20230311",
       "fastest_provider": "DeepInfra",
-      "throughput_tok_s": 133,
-      "latency_ms_p50": 1339.5,
+      "throughput_tok_s": 130,
+      "latency_ms_p50": 1336,
       "price_per_m_tokens": 0.09999999999999999,
       "provider_count": 3
     },
     {
-      "rank": 19,
+      "rank": 20,
       "model_id": "google/gemini-2.5-flash-lite-preview-09-2025",
       "name": "Google: Gemini 2.5 Flash Lite Preview 09-2025",
       "author": "google",
@@ -1258,22 +1271,9 @@
       "url": "https://openrouter.ai/google/gemini-2.5-flash-lite-preview-09-2025",
       "fastest_provider": "Google AI Studio",
       "throughput_tok_s": 130,
-      "latency_ms_p50": 435,
+      "latency_ms_p50": 426,
       "price_per_m_tokens": 0.09999999999999999,
       "provider_count": 2
-    },
-    {
-      "rank": 20,
-      "model_id": "mistralai/mistral-small-2603",
-      "name": "Mistral: Mistral Small 4",
-      "author": "mistralai",
-      "slug": "mistral-small-2603",
-      "url": "https://openrouter.ai/mistralai/mistral-small-2603",
-      "fastest_provider": "Mistral",
-      "throughput_tok_s": 129,
-      "latency_ms_p50": 394,
-      "price_per_m_tokens": 0.15,
-      "provider_count": 1
     },
     {
       "rank": 21,
@@ -1283,52 +1283,39 @@
       "slug": "qwen3-30b-a3b-04-28",
       "url": "https://openrouter.ai/qwen/qwen3-30b-a3b-04-28",
       "fastest_provider": "Friendli",
-      "throughput_tok_s": 129,
+      "throughput_tok_s": 128,
       "latency_ms_p50": 145,
       "price_per_m_tokens": 0.15,
       "provider_count": 5
     },
     {
       "rank": 22,
-      "model_id": "qwen/qwen3.5-flash-20260224",
-      "name": "Qwen: Qwen3.5-Flash",
-      "author": "qwen",
-      "slug": "qwen3.5-flash-20260224",
-      "url": "https://openrouter.ai/qwen/qwen3.5-flash-20260224",
-      "fastest_provider": "Alibaba",
-      "throughput_tok_s": 125,
-      "latency_ms_p50": 663,
-      "price_per_m_tokens": 0.065,
-      "provider_count": 1
-    },
-    {
-      "rank": 23,
       "model_id": "mistralai/ministral-8b-2512",
       "name": "Mistral: Ministral 3 8B 2512",
       "author": "mistralai",
       "slug": "ministral-8b-2512",
       "url": "https://openrouter.ai/mistralai/ministral-8b-2512",
       "fastest_provider": "Mistral",
-      "throughput_tok_s": 124,
-      "latency_ms_p50": 177,
+      "throughput_tok_s": 125,
+      "latency_ms_p50": 175,
       "price_per_m_tokens": 0.15,
       "provider_count": 2
     },
     {
-      "rank": 24,
-      "model_id": "google/gemini-2.5-flash-image",
-      "name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
-      "author": "google",
-      "slug": "gemini-2.5-flash-image",
-      "url": "https://openrouter.ai/google/gemini-2.5-flash-image",
-      "fastest_provider": "Google AI Studio",
+      "rank": 23,
+      "model_id": "qwen/qwen3.5-flash-20260224",
+      "name": "Qwen: Qwen3.5-Flash",
+      "author": "qwen",
+      "slug": "qwen3.5-flash-20260224",
+      "url": "https://openrouter.ai/qwen/qwen3.5-flash-20260224",
+      "fastest_provider": "Alibaba",
       "throughput_tok_s": 124,
-      "latency_ms_p50": 1487,
-      "price_per_m_tokens": 0.3,
-      "provider_count": 2
+      "latency_ms_p50": 663,
+      "price_per_m_tokens": 0.065,
+      "provider_count": 1
     },
     {
-      "rank": 25,
+      "rank": 24,
       "model_id": "z-ai/glm-4.6",
       "name": "Z.ai: GLM 4.6",
       "author": "z-ai",
@@ -1341,6 +1328,19 @@
       "provider_count": 6
     },
     {
+      "rank": 25,
+      "model_id": "google/gemini-2.5-flash-image",
+      "name": "Google: Nano Banana (Gemini 2.5 Flash Image)",
+      "author": "google",
+      "slug": "gemini-2.5-flash-image",
+      "url": "https://openrouter.ai/google/gemini-2.5-flash-image",
+      "fastest_provider": "Google AI Studio",
+      "throughput_tok_s": 121,
+      "latency_ms_p50": 1482.5,
+      "price_per_m_tokens": 0.3,
+      "provider_count": 2
+    },
+    {
       "rank": 26,
       "model_id": "x-ai/grok-4-fast",
       "name": "xAI: Grok 4 Fast",
@@ -1349,7 +1349,7 @@
       "url": "https://openrouter.ai/x-ai/grok-4-fast",
       "fastest_provider": "xAI",
       "throughput_tok_s": 121,
-      "latency_ms_p50": 4896,
+      "latency_ms_p50": 4947.5,
       "price_per_m_tokens": 0.19999999999999998,
       "provider_count": 1
     },
@@ -1361,7 +1361,7 @@
       "slug": "nemotron-nano-12b-v2-vl",
       "url": "https://openrouter.ai/nvidia/nemotron-nano-12b-v2-vl",
       "fastest_provider": "DeepInfra",
-      "throughput_tok_s": 119,
+      "throughput_tok_s": 120,
       "latency_ms_p50": 698,
       "price_per_m_tokens": 0.19999999999999998,
       "provider_count": 2
@@ -1375,7 +1375,7 @@
       "url": "https://openrouter.ai/qwen/qwen3-coder-next-2025-02-03",
       "fastest_provider": "Ionstream",
       "throughput_tok_s": 115,
-      "latency_ms_p50": 370,
+      "latency_ms_p50": 371,
       "price_per_m_tokens": 0.15,
       "provider_count": 6
     },
@@ -1388,22 +1388,22 @@
       "url": "https://openrouter.ai/z-ai/glm-4.7-20251222",
       "fastest_provider": "Google",
       "throughput_tok_s": 114,
-      "latency_ms_p50": 683,
+      "latency_ms_p50": 685,
       "price_per_m_tokens": 0.6,
       "provider_count": 12
     },
     {
       "rank": 30,
-      "model_id": "qwen/qwen3.5-35b-a3b-20260224",
-      "name": "Qwen: Qwen3.5-35B-A3B",
-      "author": "qwen",
-      "slug": "qwen3.5-35b-a3b-20260224",
-      "url": "https://openrouter.ai/qwen/qwen3.5-35b-a3b-20260224",
-      "fastest_provider": "AtlasCloud",
-      "throughput_tok_s": 112,
-      "latency_ms_p50": 687,
-      "price_per_m_tokens": 0.22499999999999998,
-      "provider_count": 5
+      "model_id": "mistralai/mistral-small-3.2-24b-instruct-2506",
+      "name": "Mistral: Mistral Small 3.2 24B",
+      "author": "mistralai",
+      "slug": "mistral-small-3.2-24b-instruct-2506",
+      "url": "https://openrouter.ai/mistralai/mistral-small-3.2-24b-instruct-2506",
+      "fastest_provider": "Mistral",
+      "throughput_tok_s": 113,
+      "latency_ms_p50": 323,
+      "price_per_m_tokens": 0.09999999999999999,
+      "provider_count": 4
     }
   ],
   "apps": [
