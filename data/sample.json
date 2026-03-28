@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "source_url": "https://openrouter.ai/rankings",
+    "fetched_at": "2026-03-29T06:00:00+00:00",
+    "model_count": 10,
+    "app_count": 8
+  },
+  "models": [
+    {
+      "rank": 1,
+      "model_id": "minimax/minimax-m2.5-20260211",
+      "name": "Minimax M2.5",
+      "author": "minimax",
+      "slug": "minimax-m2.5-20260211",
+      "url": "https://openrouter.ai/minimax/minimax-m2.5-20260211",
+      "tokens": 1680000000000,
+      "tokens_display": "1.68T",
+      "change": { "value": 13, "direction": "up" }
+    },
+    {
+      "rank": 2,
+      "model_id": "stepfun/step-3.5-flash:free",
+      "name": "Step 3.5 Flash (free)",
+      "author": "stepfun",
+      "slug": "step-3.5-flash:free",
+      "url": "https://openrouter.ai/stepfun/step-3.5-flash:free",
+      "tokens": 1330000000000,
+      "tokens_display": "1.33T",
+      "change": { "value": 56, "direction": "up" }
+    },
+    {
+      "rank": 3,
+      "model_id": "deepseek/deepseek-v3.2-20251201",
+      "name": "Deepseek V3.2",
+      "author": "deepseek",
+      "slug": "deepseek-v3.2-20251201",
+      "url": "https://openrouter.ai/deepseek/deepseek-v3.2-20251201",
+      "tokens": 1060000000000,
+      "tokens_display": "1.06T",
+      "change": { "value": 22, "direction": "up" }
+    },
+    {
+      "rank": 4,
+      "model_id": "google/gemini-3-flash-preview-20251217",
+      "name": "Gemini 3 Flash Preview",
+      "author": "google",
+      "slug": "gemini-3-flash-preview-20251217",
+      "url": "https://openrouter.ai/google/gemini-3-flash-preview-20251217",
+      "tokens": 1030000000000,
+      "tokens_display": "1.03T",
+      "change": { "value": 1, "direction": "up" }
+    },
+    {
+      "rank": 5,
+      "model_id": "anthropic/claude-4.6-sonnet-20260217",
+      "name": "Claude Sonnet 4.6",
+      "author": "anthropic",
+      "slug": "claude-4.6-sonnet-20260217",
+      "url": "https://openrouter.ai/anthropic/claude-4.6-sonnet-20260217",
+      "tokens": 915000000000,
+      "tokens_display": "915B",
+      "change": { "value": 29, "direction": "up" }
+    },
+    {
+      "rank": 6,
+      "model_id": "openrouter/hunter-alpha",
+      "name": "Hunter Alpha",
+      "author": "openrouter",
+      "slug": "hunter-alpha",
+      "url": "https://openrouter.ai/openrouter/hunter-alpha",
+      "tokens": 904000000000,
+      "tokens_display": "904B",
+      "change": { "new": true }
+    },
+    {
+      "rank": 7,
+      "model_id": "anthropic/claude-4.6-opus-20260205",
+      "name": "Claude Opus 4.6",
+      "author": "anthropic",
+      "slug": "claude-4.6-opus-20260205",
+      "url": "https://openrouter.ai/anthropic/claude-4.6-opus-20260205",
+      "tokens": 859000000000,
+      "tokens_display": "859B",
+      "change": { "value": 12, "direction": "up" }
+    },
+    {
+      "rank": 8,
+      "model_id": "moonshotai/kimi-k2.5-0127",
+      "name": "Kimi K2.5 0127",
+      "author": "moonshotai",
+      "slug": "kimi-k2.5-0127",
+      "url": "https://openrouter.ai/moonshotai/kimi-k2.5-0127",
+      "tokens": 575000000000,
+      "tokens_display": "575B",
+      "change": { "value": 16, "direction": "up" }
+    },
+    {
+      "rank": 9,
+      "model_id": "google/gemini-2.5-flash",
+      "name": "Gemini 2.5 Flash",
+      "author": "google",
+      "slug": "gemini-2.5-flash",
+      "url": "https://openrouter.ai/google/gemini-2.5-flash",
+      "tokens": 565000000000,
+      "tokens_display": "565B",
+      "change": { "value": 9, "direction": "up" }
+    },
+    {
+      "rank": 10,
+      "model_id": "x-ai/grok-4.1-fast",
+      "name": "Grok 4.1 Fast",
+      "author": "x-ai",
+      "slug": "grok-4.1-fast",
+      "url": "https://openrouter.ai/x-ai/grok-4.1-fast",
+      "tokens": 535000000000,
+      "tokens_display": "535B",
+      "change": { "value": 10, "direction": "up" }
+    }
+  ],
+  "apps": [
+    { "rank": 1, "name": "OpenClaw", "url": "https://openclaw.ai/", "tokens": 614000000000, "tokens_display": "614B" },
+    { "rank": 2, "name": "Kilo Code", "url": "https://kilocode.ai/", "tokens": 178000000000, "tokens_display": "178B" },
+    { "rank": 3, "name": "Claude Code", "url": "https://claude.ai/", "tokens": 89800000000, "tokens_display": "89.8B" },
+    { "rank": 4, "name": "Descript", "url": "https://descript.com/", "tokens": 45200000000, "tokens_display": "45.2B" },
+    { "rank": 5, "name": "Janitor AI", "url": "https://janitorai.com/", "tokens": 36300000000, "tokens_display": "36.3B" },
+    { "rank": 6, "name": "Cline", "url": "https://cline.bot/", "tokens": 25900000000, "tokens_display": "25.9B" },
+    { "rank": 7, "name": "ISEKAI ZERO", "url": "https://www.isekai.world/", "tokens": 25800000000, "tokens_display": "25.8B" },
+    { "rank": 8, "name": "Roo Code", "url": "https://github.com/RooVetGit/Roo-Cline", "tokens": 0, "tokens_display": "" }
+  ]
+}
