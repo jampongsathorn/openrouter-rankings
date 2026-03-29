@@ -105,6 +105,7 @@ def ys_to_ranked(ys: dict, prev_ys: dict = None, value_key: str = "tokens") -> l
         author, model_slug = parts[0], "/".join(parts[1:])
         # strip variant suffix like ":free" for display URL
         clean_slug = model_slug.split(":")[0]
+        int_value = round(value)
         entry = {
             "rank": rank,
             "model_id": slug,
@@ -112,8 +113,8 @@ def ys_to_ranked(ys: dict, prev_ys: dict = None, value_key: str = "tokens") -> l
             "author": author,
             "slug": model_slug,
             "url": f"{BASE_URL}/{author}/{clean_slug}",
-            value_key: value,
-            f"{value_key}_display": fmt_tokens(int(value)) if value >= 1000 else str(int(value)),
+            value_key: int_value,
+            f"{value_key}_display": fmt_tokens(int_value) if int_value >= 1000 else str(int_value),
             "share_pct": round(value / total * 100, 1) if total else None,
         }
         if prev_ys is not None:
@@ -205,7 +206,7 @@ def parse_fastest(block: str) -> list[dict]:
             "fastest_provider": item.get("best_throughput_provider"),
             "throughput_tok_s": item.get("p50_throughput"),
             "latency_ms_p50": item.get("p50_latency"),
-            "price_per_m_tokens": item.get("best_throughput_price"),
+            "price_per_m_tokens": round(item.get("best_throughput_price") or 0, 4),
             "provider_count": item.get("provider_count"),
         })
     return results
@@ -383,7 +384,7 @@ def save(data: dict, out_dir: Path) -> Path:
     print(f"  -> Saved: {out_file}")
 
     latest = out_dir / "latest.json"
-    latest.write_text(json.dumps({"date": date, "path": f"{date}/rankings.json"}, indent=2))
+    latest.write_text(json.dumps(data, indent=2, ensure_ascii=False))
     print(f"  -> Updated: {latest}")
     return out_file
 
