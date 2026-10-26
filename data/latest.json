@@ -1,7 +1,7 @@
 {
   "meta": {
     "source_url": "https://openrouter.ai/rankings",
-    "fetched_at": "2026-10-25T10:35:15.504172+00:00",
+    "fetched_at": "2026-10-26T12:08:22.699136+00:00",
     "counts": {
       "models": 0,
       "categories_programming": 0,
@@ -333,20 +333,20 @@
     },
     {
       "rank": 35,
-      "model_id": "mistralai/mistral-large-4-0-20261006",
-      "name": "Mistral Large 4 Preview",
-      "author": "mistralai",
-      "slug": "mistral-large-4-0-20261006",
-      "url": "https://openrouter.ai/mistralai/mistral-large-4-0-20261006",
-      "score": 38.4
-    },
-    {
-      "rank": 36,
       "model_id": "openai/gpt-5.5-20260423",
       "name": "GPT-5.5 (Xhigh)",
       "author": "openai",
       "slug": "gpt-5.5-20260423",
       "url": "https://openrouter.ai/openai/gpt-5.5-20260423",
+      "score": 38.4
+    },
+    {
+      "rank": 36,
+      "model_id": "mistralai/mistral-large-4-0-20261006",
+      "name": "Mistral Large 4 Preview",
+      "author": "mistralai",
+      "slug": "mistral-large-4-0-20261006",
+      "url": "https://openrouter.ai/mistralai/mistral-large-4-0-20261006",
       "score": 38.4
     },
     {
@@ -432,20 +432,20 @@
     },
     {
       "rank": 46,
-      "model_id": "meta/muse-spark-1.1-20260709",
-      "name": "Muse Spark 1.1 (Xhigh)",
-      "author": "meta",
-      "slug": "muse-spark-1.1-20260709",
-      "url": "https://openrouter.ai/meta/muse-spark-1.1-20260709",
-      "score": 33.7
-    },
-    {
-      "rank": 47,
       "model_id": "z-ai/glm-5.2-20260616",
       "name": "GLM-5.2 (Max)",
       "author": "z-ai",
       "slug": "glm-5.2-20260616",
       "url": "https://openrouter.ai/z-ai/glm-5.2-20260616",
+      "score": 33.7
+    },
+    {
+      "rank": 47,
+      "model_id": "meta/muse-spark-1.1-20260709",
+      "name": "Muse Spark 1.1 (Xhigh)",
+      "author": "meta",
+      "slug": "muse-spark-1.1-20260709",
+      "url": "https://openrouter.ai/meta/muse-spark-1.1-20260709",
       "score": 33.7
     },
     {
@@ -1476,20 +1476,20 @@
     },
     {
       "rank": 162,
-      "model_id": "openai/gpt-4.1-2025-04-14",
-      "name": "GPT-4.1",
-      "author": "openai",
-      "slug": "gpt-4.1-2025-04-14",
-      "url": "https://openrouter.ai/openai/gpt-4.1-2025-04-14",
-      "score": 12.7
-    },
-    {
-      "rank": 163,
       "model_id": "qwen/qwen3-235b-a22b-thinking-2507",
       "name": "Qwen3 235B A22B 2507 (Reasoning)",
       "author": "qwen",
       "slug": "qwen3-235b-a22b-thinking-2507",
       "url": "https://openrouter.ai/qwen/qwen3-235b-a22b-thinking-2507",
+      "score": 12.7
+    },
+    {
+      "rank": 163,
+      "model_id": "openai/gpt-4.1-2025-04-14",
+      "name": "GPT-4.1",
+      "author": "openai",
+      "slug": "gpt-4.1-2025-04-14",
+      "url": "https://openrouter.ai/openai/gpt-4.1-2025-04-14",
       "score": 12.7
     },
     {
@@ -1944,20 +1944,20 @@
     },
     {
       "rank": 214,
-      "model_id": "anthropic/claude-3-5-haiku",
-      "name": "Claude 3.5 Haiku",
-      "author": "anthropic",
-      "slug": "claude-3-5-haiku",
-      "url": "https://openrouter.ai/anthropic/claude-3-5-haiku",
-      "score": 8.9
-    },
-    {
-      "rank": 215,
       "model_id": "google/gemini-2.0-flash-001",
       "name": "Gemini 2.0 Flash (Feb '25)",
       "author": "google",
       "slug": "gemini-2.0-flash-001",
       "url": "https://openrouter.ai/google/gemini-2.0-flash-001",
+      "score": 8.9
+    },
+    {
+      "rank": 215,
+      "model_id": "anthropic/claude-3-5-haiku",
+      "name": "Claude 3.5 Haiku",
+      "author": "anthropic",
+      "slug": "claude-3-5-haiku",
+      "url": "https://openrouter.ai/anthropic/claude-3-5-haiku",
       "score": 8.9
     },
     {
@@ -2115,15 +2115,6 @@
     },
     {
       "rank": 233,
-      "model_id": "upstage/solar-pro-3",
-      "name": "Solar Pro 3",
-      "author": "upstage",
-      "slug": "solar-pro-3",
-      "url": "https://openrouter.ai/upstage/solar-pro-3",
-      "score": 7.8
-    },
-    {
-      "rank": 234,
       "model_id": "deepseek/deepseek-r1-distill-qwen-14b",
       "name": "DeepSeek R1 Distill Qwen 14B",
       "author": "deepseek",
@@ -2132,21 +2123,30 @@
       "score": 7.8
     },
     {
-      "rank": 235,
-      "model_id": "perplexity/sonar",
-      "name": "Sonar",
-      "author": "perplexity",
-      "slug": "sonar",
-      "url": "https://openrouter.ai/perplexity/sonar",
-      "score": 7.7
+      "rank": 234,
+      "model_id": "upstage/solar-pro-3",
+      "name": "Solar Pro 3",
+      "author": "upstage",
+      "slug": "solar-pro-3",
+      "url": "https://openrouter.ai/upstage/solar-pro-3",
+      "score": 7.8
     },
     {
-      "rank": 236,
+      "rank": 235,
       "model_id": "openai/gpt-4o-2024-08-06",
       "name": "GPT-4o (Aug '24)",
       "author": "openai",
       "slug": "gpt-4o-2024-08-06",
       "url": "https://openrouter.ai/openai/gpt-4o-2024-08-06",
+      "score": 7.7
+    },
+    {
+      "rank": 236,
+      "model_id": "perplexity/sonar",
+      "name": "Sonar",
+      "author": "perplexity",
+      "slug": "sonar",
+      "url": "https://openrouter.ai/perplexity/sonar",
       "score": 7.7
     },
     {
@@ -2250,20 +2250,20 @@
     },
     {
       "rank": 248,
-      "model_id": "google/gemini-2.0-flash-lite-001",
-      "name": "Gemini 2.0 Flash-Lite (Feb '25)",
-      "author": "google",
-      "slug": "gemini-2.0-flash-lite-001",
-      "url": "https://openrouter.ai/google/gemini-2.0-flash-lite-001",
-      "score": 7.4
-    },
-    {
-      "rank": 249,
       "model_id": "nvidia/nemotron-nano-9b-v2",
       "name": "NVIDIA Nemotron Nano 9B V2 (Reasoning)",
       "author": "nvidia",
       "slug": "nemotron-nano-9b-v2",
       "url": "https://openrouter.ai/nvidia/nemotron-nano-9b-v2",
+      "score": 7.4
+    },
+    {
+      "rank": 249,
+      "model_id": "google/gemini-2.0-flash-lite-001",
+      "name": "Gemini 2.0 Flash-Lite (Feb '25)",
+      "author": "google",
+      "slug": "gemini-2.0-flash-lite-001",
+      "url": "https://openrouter.ai/google/gemini-2.0-flash-lite-001",
       "score": 7.4
     },
     {
@@ -2286,20 +2286,20 @@
     },
     {
       "rank": 252,
-      "model_id": "meta-llama/llama-3.1-405b-instruct",
-      "name": "Llama 3.1 Instruct 405B",
-      "author": "meta-llama",
-      "slug": "llama-3.1-405b-instruct",
-      "url": "https://openrouter.ai/meta-llama/llama-3.1-405b-instruct",
-      "score": 7.3
-    },
-    {
-      "rank": 253,
       "model_id": "openai/gpt-4o-2024-05-13",
       "name": "GPT-4o (May '24)",
       "author": "openai",
       "slug": "gpt-4o-2024-05-13",
       "url": "https://openrouter.ai/openai/gpt-4o-2024-05-13",
+      "score": 7.3
+    },
+    {
+      "rank": 253,
+      "model_id": "meta-llama/llama-3.1-405b-instruct",
+      "name": "Llama 3.1 Instruct 405B",
+      "author": "meta-llama",
+      "slug": "llama-3.1-405b-instruct",
+      "url": "https://openrouter.ai/meta-llama/llama-3.1-405b-instruct",
       "score": 7.3
     },
     {
@@ -2358,20 +2358,20 @@
     },
     {
       "rank": 260,
-      "model_id": "google/gemini-flash-1.5",
-      "name": "Gemini 1.5 Flash (Sep '24)",
-      "author": "google",
-      "slug": "gemini-flash-1.5",
-      "url": "https://openrouter.ai/google/gemini-flash-1.5",
-      "score": 7.1
-    },
-    {
-      "rank": 261,
       "model_id": "x-ai/grok-2-1212",
       "name": "Grok 2 (Dec '24)",
       "author": "x-ai",
       "slug": "grok-2-1212",
       "url": "https://openrouter.ai/x-ai/grok-2-1212",
+      "score": 7.1
+    },
+    {
+      "rank": 261,
+      "model_id": "google/gemini-flash-1.5",
+      "name": "Gemini 1.5 Flash (Sep '24)",
+      "author": "google",
+      "slug": "gemini-flash-1.5",
+      "url": "https://openrouter.ai/google/gemini-flash-1.5",
       "score": 7.1
     },
     {
@@ -2421,20 +2421,20 @@
     },
     {
       "rank": 267,
-      "model_id": "x-ai/grok-beta",
-      "name": "Grok Beta",
-      "author": "x-ai",
-      "slug": "grok-beta",
-      "url": "https://openrouter.ai/x-ai/grok-beta",
-      "score": 6.9
-    },
-    {
-      "rank": 268,
       "model_id": "meta-llama/llama-3.1-8b-instruct",
       "name": "Llama 3.1 Instruct 8B",
       "author": "meta-llama",
       "slug": "llama-3.1-8b-instruct",
       "url": "https://openrouter.ai/meta-llama/llama-3.1-8b-instruct",
+      "score": 6.9
+    },
+    {
+      "rank": 268,
+      "model_id": "x-ai/grok-beta",
+      "name": "Grok Beta",
+      "author": "x-ai",
+      "slug": "grok-beta",
+      "url": "https://openrouter.ai/x-ai/grok-beta",
       "score": 6.9
     },
     {
@@ -2484,20 +2484,20 @@
     },
     {
       "rank": 274,
-      "model_id": "openai/gpt-4",
-      "name": "GPT-4",
-      "author": "openai",
-      "slug": "gpt-4",
-      "url": "https://openrouter.ai/openai/gpt-4",
-      "score": 6.7
-    },
-    {
-      "rank": 275,
       "model_id": "qwen/qwen-2.5-coder-32b-instruct",
       "name": "Qwen2.5 Coder Instruct 32B",
       "author": "qwen",
       "slug": "qwen-2.5-coder-32b-instruct",
       "url": "https://openrouter.ai/qwen/qwen-2.5-coder-32b-instruct",
+      "score": 6.7
+    },
+    {
+      "rank": 275,
+      "model_id": "openai/gpt-4",
+      "name": "GPT-4",
+      "author": "openai",
+      "slug": "gpt-4",
+      "url": "https://openrouter.ai/openai/gpt-4",
       "score": 6.7
     },
     {
@@ -2583,20 +2583,20 @@
     },
     {
       "rank": 285,
-      "model_id": "qwen/qwen-turbo-2024-11-01",
-      "name": "Qwen2.5 Turbo",
-      "author": "qwen",
-      "slug": "qwen-turbo-2024-11-01",
-      "url": "https://openrouter.ai/qwen/qwen-turbo-2024-11-01",
-      "score": 6.4
-    },
-    {
-      "rank": 286,
       "model_id": "meta-llama/llama-3.2-90b-vision-instruct",
       "name": "Llama 3.2 Instruct 90B (Vision)",
       "author": "meta-llama",
       "slug": "llama-3.2-90b-vision-instruct",
       "url": "https://openrouter.ai/meta-llama/llama-3.2-90b-vision-instruct",
+      "score": 6.4
+    },
+    {
+      "rank": 286,
+      "model_id": "qwen/qwen-turbo-2024-11-01",
+      "name": "Qwen2.5 Turbo",
+      "author": "qwen",
+      "slug": "qwen-turbo-2024-11-01",
+      "url": "https://openrouter.ai/qwen/qwen-turbo-2024-11-01",
       "score": 6.4
     },
     {
@@ -2673,20 +2673,20 @@
     },
     {
       "rank": 295,
-      "model_id": "ai21/jamba-1.6-large",
-      "name": "Jamba 1.6 Large",
-      "author": "ai21",
-      "slug": "jamba-1.6-large",
-      "url": "https://openrouter.ai/ai21/jamba-1.6-large",
-      "score": 6
-    },
-    {
-      "rank": 296,
       "model_id": "ai21/jamba-1-5-large",
       "name": "Jamba 1.5 Large",
       "author": "ai21",
       "slug": "jamba-1-5-large",
       "url": "https://openrouter.ai/ai21/jamba-1-5-large",
+      "score": 6
+    },
+    {
+      "rank": 296,
+      "model_id": "ai21/jamba-1.6-large",
+      "name": "Jamba 1.6 Large",
+      "author": "ai21",
+      "slug": "jamba-1.6-large",
+      "url": "https://openrouter.ai/ai21/jamba-1.6-large",
       "score": 6
     },
     {
@@ -2745,20 +2745,20 @@
     },
     {
       "rank": 303,
-      "model_id": "google/gemma-3n-e4b-it",
-      "name": "Gemma 3n E4B Instruct Preview (May '25)",
-      "author": "google",
-      "slug": "gemma-3n-e4b-it",
-      "url": "https://openrouter.ai/google/gemma-3n-e4b-it",
-      "score": 5.8
-    },
-    {
-      "rank": 304,
       "model_id": "mistralai/mistral-large",
       "name": "Mistral Large (Feb '24)",
       "author": "mistralai",
       "slug": "mistral-large",
       "url": "https://openrouter.ai/mistralai/mistral-large",
+      "score": 5.8
+    },
+    {
+      "rank": 304,
+      "model_id": "google/gemma-3n-e4b-it",
+      "name": "Gemma 3n E4B Instruct Preview (May '25)",
+      "author": "google",
+      "slug": "gemma-3n-e4b-it",
+      "url": "https://openrouter.ai/google/gemma-3n-e4b-it",
       "score": 5.8
     },
     {
@@ -2889,20 +2889,20 @@
     },
     {
       "rank": 319,
-      "model_id": "meta-llama/llama-3.2-11b-vision-instruct",
-      "name": "Llama 3.2 Instruct 11B (Vision)",
-      "author": "meta-llama",
-      "slug": "llama-3.2-11b-vision-instruct",
-      "url": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
-      "score": 5.4
-    },
-    {
-      "rank": 320,
       "model_id": "qwen/qwen-72b-chat",
       "name": "Qwen Chat 72B",
       "author": "qwen",
       "slug": "qwen-72b-chat",
       "url": "https://openrouter.ai/qwen/qwen-72b-chat",
+      "score": 5.4
+    },
+    {
+      "rank": 320,
+      "model_id": "meta-llama/llama-3.2-11b-vision-instruct",
+      "name": "Llama 3.2 Instruct 11B (Vision)",
+      "author": "meta-llama",
+      "slug": "llama-3.2-11b-vision-instruct",
+      "url": "https://openrouter.ai/meta-llama/llama-3.2-11b-vision-instruct",
       "score": 5.4
     },
     {
@@ -3087,20 +3087,20 @@
     },
     {
       "rank": 341,
-      "model_id": "anthropic/claude-instant-1",
-      "name": "Claude Instant",
-      "author": "anthropic",
-      "slug": "claude-instant-1",
-      "url": "https://openrouter.ai/anthropic/claude-instant-1",
-      "score": 5
-    },
-    {
-      "rank": 342,
       "model_id": "mistralai/mistral-7b-instruct",
       "name": "Mistral 7B Instruct",
       "author": "mistralai",
       "slug": "mistral-7b-instruct",
       "url": "https://openrouter.ai/mistralai/mistral-7b-instruct",
+      "score": 5
+    },
+    {
+      "rank": 342,
+      "model_id": "anthropic/claude-instant-1",
+      "name": "Claude Instant",
+      "author": "anthropic",
+      "slug": "claude-instant-1",
+      "url": "https://openrouter.ai/anthropic/claude-instant-1",
       "score": 5
     },
     {
@@ -3141,20 +3141,20 @@
     },
     {
       "rank": 347,
-      "model_id": "qwen/qwen3-0.6b-04-28",
-      "name": "Qwen3 0.6B (Non-reasoning)",
-      "author": "qwen",
-      "slug": "qwen3-0.6b-04-28",
-      "url": "https://openrouter.ai/qwen/qwen3-0.6b-04-28",
-      "score": 4.8
-    },
-    {
-      "rank": 348,
       "model_id": "meta-llama/llama-3-8b-instruct",
       "name": "Llama 3 Instruct 8B",
       "author": "meta-llama",
       "slug": "llama-3-8b-instruct",
       "url": "https://openrouter.ai/meta-llama/llama-3-8b-instruct",
+      "score": 4.8
+    },
+    {
+      "rank": 348,
+      "model_id": "qwen/qwen3-0.6b-04-28",
+      "name": "Qwen3 0.6B (Non-reasoning)",
+      "author": "qwen",
+      "slug": "qwen3-0.6b-04-28",
+      "url": "https://openrouter.ai/qwen/qwen3-0.6b-04-28",
       "score": 4.8
     },
     {
