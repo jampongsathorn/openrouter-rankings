@@ -1,7 +1,7 @@
 {
   "meta": {
     "source_url": "https://openrouter.ai/rankings",
-    "fetched_at": "2026-11-05T13:53:41.130661+00:00",
+    "fetched_at": "2026-11-06T13:39:11.196627+00:00",
     "counts": {
       "models": 0,
       "categories_programming": 0,
@@ -11,7 +11,7 @@
       "tool_calls": 0,
       "images": 0,
       "market_share": 0,
-      "benchmarks": 52,
+      "benchmarks": 53,
       "fastest": 0,
       "apps": 0
     }
@@ -492,6 +492,15 @@
       "slug": "mistral-small-2603",
       "url": "https://openrouter.ai/mistralai/mistral-small-2603",
       "score": 4.3
+    },
+    {
+      "rank": 53,
+      "model_id": "cohere/north-mini-code-20260617",
+      "name": "North Mini Code",
+      "author": "cohere",
+      "slug": "north-mini-code-20260617",
+      "url": "https://openrouter.ai/cohere/north-mini-code-20260617",
+      "score": 3.4
     }
   ],
   "fastest": [],
