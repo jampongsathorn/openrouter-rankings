@@ -1,7 +1,7 @@
 {
   "meta": {
     "source_url": "https://openrouter.ai/rankings",
-    "fetched_at": "2026-11-12T14:30:48.651500+00:00",
+    "fetched_at": "2026-11-13T13:49:30.459908+00:00",
     "counts": {
       "models": 0,
       "categories_programming": 0,
@@ -126,20 +126,20 @@
     },
     {
       "rank": 12,
-      "model_id": "anthropic/claude-opus-5-20260723",
-      "name": "Claude Opus 5 (Max)",
-      "author": "anthropic",
-      "slug": "claude-opus-5-20260723",
-      "url": "https://openrouter.ai/anthropic/claude-opus-5-20260723",
-      "score": 44.2
-    },
-    {
-      "rank": 13,
       "model_id": "openai/gpt-6-sol-20260922",
       "name": "GPT-6 Sol (Max)",
       "author": "openai",
       "slug": "gpt-6-sol-20260922",
       "url": "https://openrouter.ai/openai/gpt-6-sol-20260922",
+      "score": 44.2
+    },
+    {
+      "rank": 13,
+      "model_id": "anthropic/claude-opus-5-20260723",
+      "name": "Claude Opus 5 (Max)",
+      "author": "anthropic",
+      "slug": "claude-opus-5-20260723",
+      "url": "https://openrouter.ai/anthropic/claude-opus-5-20260723",
       "score": 44.2
     },
     {
